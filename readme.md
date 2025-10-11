@@ -1,4 +1,3 @@
-
 ---
 title: "Biegesensor"
 date: "2018-10-01T13:36:00.000Z"
