@@ -16,9 +16,6 @@ repo_part: "Flex_Sensor_v1"
 product_url: "https://store.spectrasymbol.com/products/spectraflex-flex-sensor?variant=40919797399667"
 clone_url: "https://github.com/Make-Your-School/mks-SpectraSymbol-Flex_Sensor_v1.git"
 embedded_example_file: "examples/Flex_Sensor_v1_minimal/Flex_Sensor_v1_minimal.ino"
-title: 'Biegesensor'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
